@@ -1,5 +1,5 @@
-# Hands On! - Horizon
-Implementação do desafio do processo seletivo para estágio em desenvolvimento na Horizon
+# Sistema de Transferências (simulando pagamentos bancários)
+Projeto feito visando aprender mais sobre uso de DTOs e bancos de dados relacionais em aplicações Spring Boot
 
 ## Pré-requisitos:
 Para executar o sistema, você irá precisar de:
